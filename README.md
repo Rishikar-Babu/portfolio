@@ -1,2 +1,2 @@
 # portfolio
-Firsr Automatic Deployemnt in Jenksins
+First Automatic Deployment in Jenkins
